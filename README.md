@@ -1,4 +1,9 @@
-### Hi there 👋
+
+<center>
+    <h1> Hi there 👋, My name is Manik Garg </h1>
+    <h2><a href="https://leetcode.com/gargmanik6080/">Top 10.4% Leetcode || </h2>
+</center>
+
 
 <!--
 **gargmanik6080/gargmanik6080** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
