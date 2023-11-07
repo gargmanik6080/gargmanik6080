@@ -1,7 +1,7 @@
 
 <center>
     <h1> Hi there 👋, My name is Manik Garg </h1>
-    <h2><a href="https://leetcode.com/gargmanik6080/">Top 8.6% Leetcode || 3 Star on <a href="https://www.codechef.com/users/gargmanik6080">CodeChef</a> || 1194 Rating on <a href="https://codeforces.com/profile/gargmanik6080"> Codeforces</a></h2>
+    <h2>Top 8.6% <a href="https://leetcode.com/gargmanik6080/">Leetcode </a>|| 3 Star on <a href="https://www.codechef.com/users/gargmanik6080">CodeChef</a> || 1194 Rating on <a href="https://codeforces.com/profile/gargmanik6080"> Codeforces</a></h2>
 </center>
 
 
