@@ -1,12 +1,10 @@
 
-<center>
-    <h1> Hi there 👋, I'm Manik Garg </h1>
-    <h2>Top 7.1% <a href="https://leetcode.com/gargmanik6080/">Leetcode </a>|| 3 Star on <a href="https://www.codechef.com/users/gargmanik6080">CodeChef</a> || 1210 Rating on <a href="https://codeforces.com/profile/gargmanik6080"> Codeforces</a></h2>
+<h1 align="center"> Hi there 👋, I'm Manik Garg </h1>
+<h2 align="center">Top 7.1% <a href="https://leetcode.com/gargmanik6080/">Leetcode </a>|| 3 Star on <a href="https://www.codechef.com/users/gargmanik6080">CodeChef</a> || 1210 Rating on <a href="https://codeforces.com/profile/gargmanik6080"> Codeforces</a></h2>
 
 
-    <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gargmanik6080" alt="Trophies" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gargmanik6080" alt="Trophies" /></a> </p>
 
-</center>
 
 
 <!--
