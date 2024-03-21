@@ -21,10 +21,10 @@
 <br>    
 <br>    
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=gargmanik6080&show_icons=true&locale=en&layout=compact" alt="gargmanik6080" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=gargmanik6080&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="languages used" /></p>
 
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gargmanik6080&radius=16&area=true&order=5&hide_border=true&bg_color=black" height="300" alt="activity-graph"  />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gargmanik6080&bg_color=white&hide_border=true&theme=xcode" height="300" alt="activity-graph"  />
 </div>
 
 <!--
