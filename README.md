@@ -1,7 +1,10 @@
 
 <center>
-    <h1> Hi there 👋, My name is Manik Garg </h1>
+    <h1> Hi there 👋, I'm Manik Garg </h1>
     <h2>Top 7.1% <a href="https://leetcode.com/gargmanik6080/">Leetcode </a>|| 3 Star on <a href="https://www.codechef.com/users/gargmanik6080">CodeChef</a> || 1210 Rating on <a href="https://codeforces.com/profile/gargmanik6080"> Codeforces</a></h2>
+
+
+    [![trophy](https://github-profile-trophy.vercel.app/?username=gargmanik6080)](https://github.com/gargmanik6080/github-profile-trophy)
 </center>
 
 
