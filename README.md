@@ -8,18 +8,25 @@
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
-<a href="https://www.leetcode.com/gargmanik6080" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gargmanik6080" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gargmanik6080" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gargmanik6080" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/gargmanik6080" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="gargmanik6080" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/gargmanik6080" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="gargmanik6080" height="30" width="40" style="color:white;" /></a>
-<a href="https://discordapp.com/users/829944062756126731" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="manik.g6080" height="30" width="40" /></a>    
+<a href="https://www.leetcode.com/gargmanik6080" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Leetcode" height="30" width="40" /></a>
+<img width="12" />
+<a href="https://linkedin.com/in/gargmanik6080" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" /></a>
+<img width="12" />
+<a href="https://codeforces.com/profile/gargmanik6080" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" /></a>
+<img width="12" />
+<a href="https://www.codechef.com/users/gargmanik6080" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" style="color:white;" /></a>
+<img width="12" />
+<a href="https://discordapp.com/users/829944062756126731" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>    
 <br>    
 <br>    
 <br>    
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=gargmanik6080&show_icons=true&locale=en&layout=compact" alt="gargmanik6080" /></p>
 
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gargmanik6080&radius=16&area=true&order=5&hide_border=true&bg_color=black" height="300" alt="activity-graph"  />
 </div>
+
 <!--
 **gargmanik6080/gargmanik6080** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
