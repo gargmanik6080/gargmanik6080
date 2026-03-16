@@ -1,6 +1,6 @@
 
 <h1 align="center"> Hi there 👋, I'm Manik Garg </h1>
-<h2 align="center">Top 7.1% Leetcode || 3 Star on CodeChef || 1210 Rating on Codeforces </h2>
+<h2 align="center">Top 6% Leetcode || 3 Star on CodeChef || 1210 Rating on Codeforces </h2>
 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gargmanik6080&row=2&column=3&theme=onedark" alt="Trophies" /></a> </p>
