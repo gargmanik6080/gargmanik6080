@@ -2,12 +2,8 @@
 <h3 align="center">Platform & DevOps Engineer | Kubernetes • AWS • GitOps | CKAD · KCNA · KCSA</h3>
 <p align="center">Top 6% on LeetCode — 1887 rating across 70+ contests</p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gargmanik6080&row=1&column=6&theme=onedark&no-frame=true" alt="Trophies" /></a>
-</p>
-
 ### 👨‍💻 About Me
-- 🚀 Platform/DevOps Engineer — operating a **GitOps platform (ArgoCD, Helm)** across **hundreds of Kubernetes clusters**
+- 🚀 Platform/DevOps Engineer — operating a **GitOps platform (ArgoCD, Helm)** across **large-scale multi-cluster environments**
 - 🛠️ Day-to-day with **Kubernetes, AWS, Terraform, Docker, CI/CD, and Grafana/Prometheus observability**
 - 📜 Certified **CKAD**, **KCNA**, **KCSA**
 - 🌱 Currently deepening **Go** and preparing for the **CKA**
@@ -38,10 +34,3 @@
   <a href="https://leetcode.com/gargmanik6080" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
   <a href="https://github.com/gargmanik6080" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gargmanik6080&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gargmanik6080&layout=compact&theme=tokyonight&hide_border=true&locale=en" height="165" alt="Top languages" />
-</div>
