@@ -1,13 +1,17 @@
 <h1 align="center">Hi there 👋, I'm Manik Garg</h1>
-<h3 align="center">Platform & DevOps Engineer | Kubernetes • AWS • GitOps | CKAD · KCNA · KCSA</h3>
-<p align="center">Top 6% on LeetCode — 1887 rating across 70+ contests</p>
+<h3 align="center">Platform & DevOps Engineer | Kubernetes • AWS • GitOps | CKA · CKAD · KCNA · KCSA</h3>
+<p align="center">Top 6% on LeetCode (1887 rating across 70+ contests)</p>
 
 ### 👨‍💻 About Me
-- 🚀 Platform/DevOps Engineer — operating a **GitOps platform (ArgoCD, Helm)** across **large-scale multi-cluster environments**
+- 🚀 Platform/DevOps Engineer operating a **GitOps and policy-as-code platform (ArgoCD, Helm, Kyverno)** across **hundreds of Kubernetes clusters**
 - 🛠️ Day-to-day with **Kubernetes, AWS, Terraform, Docker, CI/CD, and Grafana/Prometheus observability**
-- 📜 Certified **CKAD**, **KCNA**, **KCSA**
-- 🌱 Currently deepening **Go** and preparing for the **CKA**
+- 📊 Building **Grafana dashboards and alerts as code**, and automating platform workflows with **Claude Code skills**
+- 📜 Certified **CKA**, **CKAD**, **KCNA**, **KCSA** and **GitHub Foundations**
+- 🌱 Currently deepening **Go** through Kubernetes operator development
 - 💬 Ask me about **Kubernetes, GitOps, CI/CD, and cloud automation**
+
+### 🧪 Featured Project
+**EC2 Go Operator**: a Kubernetes operator in Go (Kubebuilder, AWS SDK v2) for declarative, GitOps-compatible management of AWS EC2 through custom CRDs, with a reconciliation loop, drift detection, status reporting and finalizer-based cleanup.
 
 ### 🧰 Tech Stack
 <p>
@@ -15,6 +19,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" />
   <img src="https://img.shields.io/badge/Argo%20CD-EF7B4D?style=flat-square&logo=argo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kyverno-FF6A00?style=flat-square" />
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
